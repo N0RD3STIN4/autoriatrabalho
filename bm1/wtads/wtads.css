@@ -1,0 +1,32 @@
+body {
+    background: #ffffff;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    background: #919191;
+    padding: 10px;
+    text-align: center;
+}
+h3 {
+    color: #000000;
+}
+p {
+    color: #000000;
+    font-size: 14px;
+}
+
+a {
+    color: #0b63b6;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #b60b3b;
+}
+footer {
+    background-color: #919191;
+    padding: 10px;
+    font-size: 12px;
+    text-align: center;
+}
